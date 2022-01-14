@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "D:\\Software\\Anaconda5.3\\envs\\pyqt\\python.exe",
+    "pyqt-integration.qtdesigner.path": "D:\\Software\\Anaconda5.3\\envs\\pyqt\\Lib\\site-packages\\qt5_applications\\Qt\\bin\\designer.exe",
+    "pyqt-integration.pyuic.compile.filepath": "${ui_name}.py",
+    "python.formatting.provider": "yapf"
+}

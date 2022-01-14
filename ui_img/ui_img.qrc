@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="btn_img">
+    <file>folder_side.svg</file>
+    <file>ellipsis.svg</file>
+    <file>erase.svg</file>
+    <file>rectangle.svg</file>
+    <file>zoom-out.svg</file>
+    <file>zoom-in.svg</file>
+    <file>save.svg</file>
+    <file>printer.svg</file>
+    <file>line.svg</file>
+    <file>folder_front.svg</file>
+    <file>play.svg</file>
+  </qresource>
+</RCC>
